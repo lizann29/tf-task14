@@ -27,7 +27,7 @@ igw_name         = "cmtr-cn4j86ym-igw"
 route_table_name = "cmtr-cn4j86ym-rt"
 
 # --- network_security module ---
-allowed_ip_range = ["18.153.146.156/32", "178.134.176.68/32"]
+allowed_ip_range = ["18.153.146.156/32", "37.232.104.241/32"]
 
 ssh_security_group_name          = "cmtr-cn4j86ym-ssh-sg"
 public_http_security_group_name  = "cmtr-cn4j86ym-public-http-sg"
